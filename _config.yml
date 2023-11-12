@@ -40,7 +40,7 @@ email: gvcarlos99@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/_layouts/home.html" # the subpath of your site, e.g. /blog
 url: "https://carlos-gv.github.io/" # the base hostname & protocol for your site
 
 # Social settings
